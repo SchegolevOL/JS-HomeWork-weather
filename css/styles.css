@@ -1,0 +1,14 @@
+body{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+.none { display: none; }
+.card{
+    margin-top: 20px;
+    background-image: url('../images/fon.jpg');
+    color: blanchedalmond;
+}
