@@ -1,3 +1,5 @@
+import {MyCard} from './my-card.js';
+customElements.define('my-card', MyCard);
 document
   .querySelector(".formSity")
   .addEventListener("submit", async (event) => {
